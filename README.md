@@ -1,6 +1,6 @@
 # Ahmed Rehan
 
-I’m a full-stack engineer and solo builder focused on **developer tools**, **agent systems**, **workflow automation**, and **performance-conscious software**.
+I'm a full-stack engineer and solo builder focused on **developer tools**, **agent systems**, **workflow automation**, and **performance-conscious software**.
 
 My work sits at the intersection of:
 - webhooks and API tooling
