@@ -15,9 +15,6 @@ Enterprise-grade webhook testing suite for capturing, replaying, forwarding, val
 ### agent-harness
 Tooling and workflow infrastructure for discovery, installation, and activation across agent ecosystems and AI-assisted development setups.
 
-### DataGuard
-Data quality checker and ETL validation product for CSV, Excel, JSON, and related structured-data workflows.
-
 ### InterActNote
 Android-first call-time context and relationship notes product focused on useful, practical in-call context.
 
