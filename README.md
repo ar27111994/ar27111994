@@ -18,6 +18,12 @@ Tooling and workflow infrastructure for discovery, installation, and activation 
 ### InterActNote
 Android-first call-time context and relationship notes product focused on useful, practical in-call context.
 
+### Bluff
+Bluff is a 2–5 player social deduction and bluffing card game with two distinct play modes, a clean 
+all-ages rating, and a fully documented rulebook. Its short-session structure, simple but deep 
+mechanics, and inherent social tension make it an exceptional candidate for a multi-platform digital 
+release. 
+
 ## What I care about
 - developer tools that solve real workflow pain
 - systems that stay understandable as they grow
