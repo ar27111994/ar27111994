@@ -38,3 +38,5 @@ I write about:
 - Medium: https://medium.com/@arlabs
 - Dev.to: https://dev.to/ar27111994
 - Hashnode: https://hashnode.com/@ar27111994
+- CoderLegion: https://coderlegion.com/user/ar27111994
+- Website: https://ar27111994.dev
